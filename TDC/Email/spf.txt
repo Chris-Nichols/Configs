@@ -1,0 +1,23 @@
+v=spf1 ip4:13.64.60.64 ip4:131.153.39.31 ip4:216.236.236.80 ip4:205.220.176.180 ip4:72.32.205.160 ip4:50.56.162.245 ip4:72.32.98.113 ip4:72.32.40.103 ip4:162.142.76.100 ip4:162.142.76.145 ip4:162.142.76.94 ip4:162.142.76.128 ip4:74.115.119.16/28 include:spf.edgepilot.com include:differencecard-com.spf.smtp25.com include:spf.protection.outlook.com include:spf.smtp2go.com include:_spf.salesforce.com include:44551560.spf04.hubspotemail.net include:usb._netblocks.mimecast.com ~all
+
+
+ip4:13.64.60.64                                 mta.differencecard.com
+ip4:131.153.39.31                               spf3.alegeus.com
+ip4:216.236.236.80                              spf3.alegeus.com
+ip4:205.220.176.180                             spf3.alegeus.com
+ip4:72.32.205.160                               spf3.alegeus.com
+ip4:50.56.162.245                               spf3.alegeus.com
+ip4:72.32.98.113                                spf3.alegeus.com
+ip4:72.32.40.103                                spf3.alegeus.com
+ip4:162.142.76.100                              spf3.alegeus.com
+ip4:162.142.76.145                              spf3.alegeus.com
+ip4:162.142.76.94                               spf3.alegeus.com
+ip4:162.142.76.128                              spf3.alegeus.com
+ip4:74.115.119.16/28                            Benefit Plan Manager
+include:spf.edgepilot.com                       Zix
+include:differencecard-com.spf.smtp25.com       Zix
+include:spf.protection.outlook.com              O365
+include:spf.smtp2go.com                         SMTP2GO
+include:_spf.salesforce.com                     Salesforce
+include:44551560.spf04.hubspotemail.net         Hubspot
+include:usb._netblocks.mimecast.com             Mimecast
