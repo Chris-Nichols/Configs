@@ -1,0 +1,29 @@
+[
+  {"toplevel_name":"Difference Card"},
+  {"name":"Difference Card Website","url":"https://www.differencecard.com/"},
+  {"name":"Member Portal","url":"https://www.wellintune.com/"},
+  {"name":"BackOffice","url":"https://backoffice.wellintune.com/"},
+  {"name":"Salesforce","url":"https://differencecard.my.salesforce.com/"},
+  {"name":"Tech Support","url":"https://differencecard.freshdesk.com/support/home"},
+  {"name":"WealthCare Admin","url":"https://www.wealthcareadmin.com/default.aspx"},
+    {"name":"Communication","children":[
+      {"name":"Webex Contact Center","url":"https://desktop.wxcc-us1.cisco.com"},
+      {"name":"Webex Settings","url":"https://settings.webex.com"},
+      {"name":"Zoom","url":"https://differencecard.zoom.us/signin"}]
+    },
+    {"name":"HR","children":[
+      {"name":"ADP","url":"https://workforcenow.adp.com"},
+      {"name":"Expensify","url":"https://www.expensify.com"},
+      {"name":"WealthCare Portal","url":"https://diffcard.wealthcareportal.com"}]
+    },
+    {"name":"Microsoft Portals","children":[
+      {"name":"Office 365","url":"https://portal.office.com/"},
+      {"name":"My Account","url":"https://myaccount.microsoft.com/"},
+      {"name":"My Apps","url":"https://myapplications.microsoft.com/"}]
+    },
+    {"name":"SharePoint","children":[
+      {"name":"General","url":"https://differencecard.sharepoint.com/"},
+      {"name":"AM & Sales","url":"https://differencecard.sharepoint.com/sites/EBS-AccountManagementSales/Shared%20Documents/Forms/AllItems.aspx"},
+      {"name":"Operations","url":"https://differencecard.sharepoint.com/sites/EBS-OperationsTeam/Shared%20Documents/Forms/AllItems.aspx"}]
+    }
+]
