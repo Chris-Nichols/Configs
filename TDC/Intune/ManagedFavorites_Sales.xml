@@ -5,6 +5,8 @@
     {"name":"AM & Sales Tools","children":[
       {"name":"CaptivateIQ","url":"https://app.captivateiq.com/"},
       {"name":"DCU","url":"https://differencecard.onemob.com/p/dcuhome"},
+      {"name":"LinkedIn","url":"https://www.linkedin.com/company/the-difference-card"},
+      {"name":"LinkedIn | Sales Navigator","url":"https://www.linkedin.com/sales/login"},
       {"name":"OneMob","url":"https://differencecard.onemob.com/app"},
       {"name":"Salesforce","url":"https://differencecard.my.salesforce.com/"},
       {"name":"WealthCare Admin","url":"https://www.wealthcareadmin.com/default.aspx"},
@@ -20,6 +22,7 @@
       {"name":"ADP Payroll","url":"https://workforcenow.adp.com"},
       {"name":"ADP Retirement","url":"https://my.adp.com/#/retirement"},
       {"name":"Expensify","url":"https://www.expensify.com"},
+      {"name":"SquadLocker","url":"https://teamlocker.squadlocker.com/#/lockers/the-difference-card/landing"},
       {"name":"WealthCare Portal","url":"https://diffcard.wealthcareportal.com"}]
     },
     {"name":"Microsoft Portals","children":[
