@@ -4,7 +4,7 @@
   {"name":"Member Portal","url":"https://www.wellintune.com/"},
   {"name":"BackOffice","url":"https://backoffice.wellintune.com/"},
   {"name":"Salesforce","url":"https://differencecard.my.salesforce.com/"},
-  {"name":"Tech Support","url":"https://differencecard.freshdesk.com/support/home"},
+  {"name":"TechSupport","url":"https://differencecard.freshdesk.com/support/home"},
   {"name":"WealthCare Admin","url":"https://www.wealthcareadmin.com/default.aspx"},
     {"name":"Communication","children":[
       {"name":"Webex Contact Center","url":"https://desktop.wxcc-us1.cisco.com"},
@@ -14,10 +14,11 @@
     {"name":"HR","children":[
       {"name":"ADP","url":"https://workforcenow.adp.com"},
       {"name":"Expensify","url":"https://www.expensify.com"},
+      {"name":"SquadLocker","url":"https://teamlocker.squadlocker.com/#/lockers/the-difference-card/landing"},      
       {"name":"WealthCare Portal","url":"https://diffcard.wealthcareportal.com"}]
     },
     {"name":"Knowledge","children":[
-      {"name":"DCU","url":"https://differencecard.onemob.com/p/dcuhome"}]
+      {"name":"TechSupport FAQ","url":"https://differencecard.freshdesk.com/support/solutions"}]
     },
     {"name":"Microsoft Portals","children":[
       {"name":"Office 365","url":"https://portal.office.com/"},
