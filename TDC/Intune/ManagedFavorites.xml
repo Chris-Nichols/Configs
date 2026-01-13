@@ -14,8 +14,8 @@
     {"name":"HR","children":[
       {"name":"ADP","url":"https://workforcenow.adp.com"},
       {"name":"Expensify","url":"https://www.expensify.com"},
-      {"name":"SquadLocker","url":"https://teamlocker.squadlocker.com/#/lockers/the-difference-card/landing"},      
-      {"name":"WealthCare Portal","url":"https://diffcard.wealthcareportal.com"}]
+      {"name":"PerformYard","url":"https://talent.performyard.com"},      
+      {"name":"SquadLocker","url":"https://teamlocker.squadlocker.com/#/lockers/the-difference-card/landing"}]
     },
     {"name":"Knowledge","children":[
       {"name":"TechSupport FAQ","url":"https://differencecard.freshdesk.com/support/solutions"}]

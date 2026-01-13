@@ -22,8 +22,8 @@
       {"name":"ADP Payroll","url":"https://workforcenow.adp.com"},
       {"name":"ADP Retirement","url":"https://my.adp.com/#/retirement"},
       {"name":"Expensify","url":"https://www.expensify.com"},
-      {"name":"SquadLocker","url":"https://teamlocker.squadlocker.com/#/lockers/the-difference-card/landing"},
-      {"name":"WealthCare Portal","url":"https://diffcard.wealthcareportal.com"}]
+      {"name":"PerformYard","url":"https://talent.performyard.com"87},
+      {"name":"SquadLocker","url":"https://teamlocker.squadlocker.com/#/lockers/the-difference-card/landing"}]
     },
     {"name":"Microsoft Portals","children":[
       {"name":"Office 365","url":"https://portal.office.com/"},
